@@ -1,14 +1,14 @@
-#Notes of podcasts and other videos
+## Notes of podcasts and other videos
 ***
-##*Change Your Brain Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast*
+# *Change Your Brain Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast*
 
-• the desire to be part of the community
+• The desire to be part of the community.
 
-• the fracture of communities
+• The fracture of communities.
 
 • There were people in my path who pushed me to the right like tutor or mentor classes. Things like meditating, doing my homework, being organized, reflecting on my actions, thinking, doing, executing, reflecting on my mistakes.
 
-• The human brain is not built to make the best choices
+• The human brain is not built to make the best choices.
 
 • Body, brain and mind are connected, integrated in several ways.
 
