@@ -1,6 +1,7 @@
 #Notes of podcasts and other videos
 ***
-#*Change Your Brain Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast*
+##*Change Your Brain Neuroscientist Dr. Andrew Huberman | Rich Roll Podcast*
+
 • the desire to be part of the community
 
 • the fracture of communities
